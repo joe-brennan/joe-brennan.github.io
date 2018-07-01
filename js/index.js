@@ -10,7 +10,7 @@ $(document).ready(() => {
   });
 
   $(".code").hover(() => {
-    $("body").css("background", "#DB3340");
+    $("body").css("background", "#E8B71A");
     $(".code").css("color", "#ffffff");
     $("h1").css("color", "#ffffff");
   }, () => {
@@ -20,7 +20,7 @@ $(document).ready(() => {
   });
 
   $(".blog").hover(() => {
-    $("body").css("background", "#DB3340");
+    $("body").css("background", "#1FDA9A");
     $(".blog").css("color", "#ffffff");
     $("h1").css("color", "#ffffff");
   }, () => {
@@ -30,7 +30,7 @@ $(document).ready(() => {
   });
 
   $(".instagram").hover(() => {
-    $("body").css("background", "#DB3340");
+    $("body").css("background", "#28ABE3");
     $(".instagram").css("color", "#ffffff");
     $("h1").css("color", "#ffffff");
   }, () => {
