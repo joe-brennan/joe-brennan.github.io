@@ -9,7 +9,6 @@ $(document).ready(() => {
     $("h1").css("color", "#000000");
   });
 
-$(document).ready(() => {
   $(".code").hover(() => {
     $("body").css("background", "#DB3340");
     $(".code").css("color", "#ffffff");
@@ -20,7 +19,6 @@ $(document).ready(() => {
     $("h1").css("color", "#000000");
   });
 
-$(document).ready(() => {
   $(".blog").hover(() => {
     $("body").css("background", "#DB3340");
     $(".blog").css("color", "#ffffff");
@@ -31,7 +29,6 @@ $(document).ready(() => {
     $("h1").css("color", "#000000");
   });
 
-$(document).ready(() => {
   $(".instagram").hover(() => {
     $("body").css("background", "#DB3340");
     $(".instagram").css("color", "#ffffff");
