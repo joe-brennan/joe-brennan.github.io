@@ -1,41 +1,41 @@
 $(document).ready(() => {
-  $(".music").hover(() => {
+  $(".one").hover(() => {
     $("body").css("background", "#DB3340");
-    $(".music").css("color", "#ffffff");
+    $(".one").css("color", "#ffffff");
     $("h1").css("color", "#ffffff");
   }, () => {
     $("body").css("background", "#ffffff");
-    $(".music").css("color", "#DB3340");
+    $(".one").css("color", "#DB3340");
     $("h1").css("color", "#000000");
   });
 
-  $(".code").hover(() => {
+  $(".two").hover(() => {
     $("body").css("background", "#28ABE3");
-    $(".code").css("color", "#ffffff");
+    $(".two").css("color", "#ffffff");
     $("h1").css("color", "#ffffff");
   }, () => {
     $("body").css("background", "#ffffff");
-    $(".code").css("color", "#28ABE3");
+    $(".two").css("color", "#28ABE3");
     $("h1").css("color", "#000000");
   });
 
-  $(".blog").hover(() => {
+  $(".three").hover(() => {
     $("body").css("background", "#1FDA9A");
-    $(".blog").css("color", "#ffffff");
+    $(".three").css("color", "#ffffff");
     $("h1").css("color", "#ffffff");
   }, () => {
     $("body").css("background", "#ffffff");
-    $(".blog").css("color", "#1FDA9A");
+    $(".three").css("color", "#1FDA9A");
     $("h1").css("color", "#000000");
   });
 
-  $(".instagram").hover(() => {
+  $(".four").hover(() => {
     $("body").css("background", "#ff9400");
-    $(".instagram").css("color", "#ffffff");
+    $(".four").css("color", "#ffffff");
     $("h1").css("color", "#ffffff");
   }, () => {
     $("body").css("background", "#ffffff");
-    $(".instagram").css("color", "#ff9400");
+    $(".four").css("color", "#ff9400");
     $("h1").css("color", "#000000");
   });
 });
