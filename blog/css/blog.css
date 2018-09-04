@@ -5,7 +5,7 @@ body {
   height: 100%;
 
   font-family: Lato;
-  overflow: hidden;
+  overflow-x: hidden;
   transition: 0.3s ease-in-out;
 }
 
